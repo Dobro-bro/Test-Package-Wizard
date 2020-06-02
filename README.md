@@ -4,7 +4,6 @@
 
 ![purealoe-logo](purealoe-logo.png)
 
-
 [![CircleCI](https://circleci.com/gh/trailheadapps/purealoe.svg?style=svg)](https://circleci.com/gh/trailheadapps/purealoe)
 
 Pure Aloe is a fictional agricultural and manufacturing company that grows aloe and produces soaps and lotions for distributors and consumers. This app helps manage crops and harvests, as well as product distribution. Platform Events are used to update [external distributor systems](https://github.com/trailheadapps/purealoe-distributor) about stock, and publish updates from those systems in Salesforce.
