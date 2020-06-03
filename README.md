@@ -2,6 +2,7 @@
 
 > IMPORTANT: This is the Aura version of the Pure Aloe sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/trailheadapps/purealoe-lwc).
 
+
 ![purealoe-logo](purealoe-logo.png)
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/purealoe.svg?style=svg)](https://circleci.com/gh/trailheadapps/purealoe)
